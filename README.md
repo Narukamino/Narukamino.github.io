@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 项目名称
 
 You can use the [editor on GitHub](https://github.com/Narukamino/Narukamino.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 项目描述
 ## Header 2
 ### Header 3
 
